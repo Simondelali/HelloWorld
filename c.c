@@ -4,4 +4,5 @@
 
 int main(){
   char s[100];
+  printf("Hello World", &s);
 }
